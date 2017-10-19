@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.com/posts/test/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.com/contact/</loc>
     <lastmod>2015-10-13T23:12:18-03:00</lastmod>
   </url>
@@ -48,13 +53,32 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/aa/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/</loc>
-    <lastmod>2015-10-13T23:12:18-03:00</lastmod>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/bb/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/cate/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,7 +90,7 @@
   
   <url>
     <loc>http://example.com/posts/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,6 +102,7 @@
   
   <url>
     <loc>http://example.com/tags/</loc>
+    <lastmod>2017-10-19T11:52:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
