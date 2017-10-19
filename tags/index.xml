@@ -6,28 +6,9 @@
     <description>Recent content in Tags on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2017 11:52:30 +0000</lastBuildDate>
     
 	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Aa</title>
-      <link>http://example.com/tags/aa/</link>
-      <pubDate>Thu, 19 Oct 2017 11:52:30 +0000</pubDate>
-      
-      <guid>http://example.com/tags/aa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bb</title>
-      <link>http://example.com/tags/bb/</link>
-      <pubDate>Thu, 19 Oct 2017 11:52:30 +0000</pubDate>
-      
-      <guid>http://example.com/tags/bb/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
